@@ -22,21 +22,21 @@ tutorial1/part2/tutorial1_complete.ipynb
 https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial1%2Fpart2%2Ftutorial1_starter.ipynb&branch=main
 https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial1%2Fpart2%2Ftutorial1_complete.ipynb&branch=main
 
-tutorial4/part1/tutorial6_starter.ipynb
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart1%2Ftutorial6_starter.ipynb&branch=main
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart1%2Ftutorial6_complete.ipynb&branch=main
+tutorial4/part1/tutorial4_part1_complete.ipynb
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart1%2Ftutorial4_part1_starter.ipynb&branch=main
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart1%2Ftutorial4_part1_complete.ipynb&branch=main
 
-tutorial4/part2/tutorial7_complete.ipynb
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart2%2Ftutorial7_starter.ipynb&branch=main
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart2%2Ftutorial7_complete.ipynb&branch=main
+tutorial4/part2/tutorial4_part2_complete.ipynb
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart2%2Ftutorial4_part2_starter.ipynb&branch=main
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial4%2Fpart2%2Ftutorial4_part2_complete.ipynb&branch=main
 
-tutorial3/part1/.DS_Store
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart1%2Ftutorial4_starter.ipynb&branch=main
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart1%2Ftutorial4_complete.ipynb&branch=main
+tutorial3/part1/tutorial3_part1.zip
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart1%2Ftutorial3_part1_starter.ipynb&branch=main
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart1%2Ftutorial3_part1_complete.ipynb&branch=main
 
-tutorial3/part2/tutorial5_starter.ipynb
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart2%2Ftutorial5_starter.ipynb&branch=main
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart2%2Ftutorial5_complete.ipynb&branch=main
+tutorial3/part2/tutorial3_part2_starter.ipynb
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart2%2Ftutorial3_part2_starter.ipynb&branch=main
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial3%2Fpart2%2Ftutorial3_part2_complete.ipynb&branch=main
 
 tutorial5/part1/tutorial8_starter.ipynb
 https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-summer-2025-tutorials&urlpath=tree%2FAPS106-summer-2025-tutorials%2Ftutorial5%2Fpart1%2Ftutorial8_starter.ipynb&branch=main
